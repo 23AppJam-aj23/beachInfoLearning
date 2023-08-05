@@ -1,0 +1,7 @@
+path: /home/woosuk/beach/train2
+train:
+    - ./images/train
+val:
+    - ./images/val
+names:
+    0: rip
